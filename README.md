@@ -1,6 +1,6 @@
 # CrewAI Local News Agent
 
-Sistema local de inteligência artificial para coleta de notícias usando:
+Teste de inteligência artificial para coleta de notícias usando:
 
 - CrewAI
 - Ollama
@@ -18,6 +18,12 @@ Pipeline multi-agentes para:
 - detecção de hot news
 - resumos executivos
 - relatório semanal
+
+Testado em uma máquina com as seguintes specs:
+
+- Intel(R) Core(TM) i5-10400F CPU (12 cores, 2.90 GHz)
+- 16GB RAM DDR4, 3200 MHz  
+- NVIDIA GeForce RTX 3060 - 8GB VRAM GDDR6
 
 ---
 
