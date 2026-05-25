@@ -1,0 +1,5 @@
+crewai==1.14.5
+crewai-cli==1.14.5
+requests==2.34.2
+beautifulsoup4==4.13.5
+feedparser==6.0.12

@@ -1,0 +1,1 @@
+RSS_FEEDS = ("https://www.wired.com/feed/rss",)
